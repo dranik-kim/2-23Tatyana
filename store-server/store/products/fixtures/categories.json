@@ -1,0 +1,42 @@
+[
+    {
+        "model": "products.productcategory",
+        "pk": 1,
+        "fields": {
+            "name": "Новинки",
+            "description": "Товары, добавленные на платформу менее 72 часов назад."
+        }
+    },
+    {
+        "model": "products.productcategory",
+        "pk": 2,
+        "fields": {
+            "name": "Одежда",
+            "description": "Стильная одежда на любой вкус по выгодным ценам!"
+        }
+    },
+    {
+        "model": "products.productcategory",
+        "pk": 3,
+        "fields": {
+            "name": "Обувь",
+            "description": "Кроссовки, сандали, туфли, тапочки, - всё, что душе угодно."
+        }
+    },
+    {
+        "model": "products.productcategory",
+        "pk": 4,
+        "fields": {
+            "name": "Аксессуары",
+            "description": "Бижутерия к новому наряду или стильный галстук-бабочка к строгому костюму."
+        }
+    },
+    {
+        "model": "products.productcategory",
+        "pk": 5,
+        "fields": {
+            "name": "Подарки",
+            "description": "Радуйте родных и близких без повода и на праздниках!"
+        }
+    }
+]
